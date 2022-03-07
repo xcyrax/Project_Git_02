@@ -7,6 +7,7 @@
   <title>Projek Kedua Belajar Git</title>
 </head>
 <body>
-  
+  <h1>Projek Kedua Belajar Git</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde doloribus fuga minus inventore necessitatibus, similique magni dignissimos quo id rem nihil eos ut laboriosam harum deleniti nostrum modi minima amet. Porro iste voluptas earum eligendi iure quia facilis, ut. Autem ducimus doloremque tempora at in dolores minus voluptate deleniti id.</p>
 </body>
 </html>
